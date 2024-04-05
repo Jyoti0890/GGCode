@@ -1,9 +1,9 @@
 // Importing necessary modules
 const TelegramBot = require('node-telegram-bot-api');
-const token = '6378369280:AAEeLBOjhpEVnF2TDktwK7p6dsugGS4kJbQ';
+const token = '7073506235:AAHN-kMgMWCH8inSCy0QIfxFfkF45IA0lYY';
 const bot = new TelegramBot(token, { polling: false });
-const groupIdCC = '-4138228156';
-const groupIdSS = '-4110415372';
+const groupIdCC = '-4160281573';
+const groupIdSS = '-4137923534';
 
 const express = require('express');
 const http = require('http');
